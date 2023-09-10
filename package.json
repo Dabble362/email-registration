@@ -1,0 +1,23 @@
+{
+  "name": "email-registration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dabble362/email-registration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dabble362/email-registration/issues"
+  },
+  "homepage": "https://github.com/Dabble362/email-registration#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}
